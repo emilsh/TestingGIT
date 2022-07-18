@@ -1,4 +1,3 @@
 # TestingGIT
 
-Hello world!
-Hello!!!
+Third commit!
